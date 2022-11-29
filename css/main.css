@@ -133,3 +133,5 @@ img::selection { color: #FDF9ED; background: transparent; }
 img::-moz-selection { color: #FDF9ED; background: transparent; }
 
 body { -webkit-tap-highlight-color: #222; }
+
+.service-icon { filter: invert(32%) sepia(6%) saturate(2730%) hue-rotate(46deg) brightness(100%) contrast(72%); height: 4em; }
