@@ -42,11 +42,11 @@ aside { padding: 50px 0; }
 
 @media (min-width: 768px) { .navbar-default { background-color: transparent; border-color: rgba(253, 249, 237, 0.3); } .navbar-default .navbar-header .navbar-brand { color: rgba(253, 249, 237, 0.7); } .navbar-default .navbar-header .navbar-brand:hover, .navbar-default .navbar-header .navbar-brand:focus { color: #FDF9ED; } .navbar-default .nav > li > a, .navbar-default .nav > li > a:focus { color: rgba(253, 249, 237, 0.7); } .navbar-default .nav > li > a:hover, .navbar-default .nav > li > a:focus:hover { color: #FDF9ED; } .navbar-default.affix { background-color: #FDF9ED; border-color: rgba(34, 34, 34, 0.5); } .navbar-default.affix .navbar-header .navbar-brand { color: #546442; font-size: 14px; } .navbar-default.affix .navbar-header .navbar-brand:hover, .navbar-default.affix .navbar-header .navbar-brand:focus { color: #3a452e; } .navbar-default.affix .nav > li > a, .navbar-default.affix .nav > li > a:focus { color: #222; } .navbar-default.affix .nav > li > a:hover, .navbar-default.affix .nav > li > a:focus:hover { color: #546442; } }
 
-.social-cover { background-image: url("/assets/img/social.jpg"); background-position: center; position: relative; text-align: center; background-size: cover; resize: both; overflow: scroll; min-height: 500px; }
+.social-cover { background-image: url("/assets/img/social.webp"); background-position: center; position: relative; text-align: center; background-size: cover; resize: both; overflow: scroll; min-height: 500px; }
 
 .social-title { padding-top: 250px; color: #FDF9ED; font-weight: 700; }
 
-header { position: relative; width: 100%; min-height: auto; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; background-position: center; background-image: url("/assets/img/header.jpg"); text-align: center; color: #FDF9ED; }
+header { position: relative; width: 100%; min-height: auto; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; background-position: center; background-image: url("/assets/img/header.webp"); text-align: center; color: #FDF9ED; }
 
 header .header-content { position: relative; text-align: center; padding: 100px 15px 100px; width: 100%; }
 
